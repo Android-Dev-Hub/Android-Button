@@ -20,11 +20,21 @@ Designed for students and developers who want to master button behavior in Andro
 </p>
 ```
 
-🚀 Key Features
+## 🚀 Key Features
 
--Material Design Buttons
--OnClick Event Handling
--Toast & Snackbar messages
--Clean and minimal UI
--Very lightweight & fast
--Perfect for UI practice
+- 🎨 Material Design Buttons  
+- 🖱 OnClick Event Handling  
+- 🔔 Toast & Snackbar Messages  
+- 🧼 Clean & Minimal UI  
+- ⚡ Very Lightweight & Fast  
+- 🧑‍🎓 Perfect for UI Practice  
+
+
+## 🛠 Tech Stack
+
+| Component | Technology |
+|--------|----------|
+| Language | Kotlin |
+| IDE | Android Studio |
+| UI | XML + Material Components |
+| Minimum SDK | 21 (Android 5.0) |
