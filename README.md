@@ -18,3 +18,13 @@ Designed for students and developers who want to master button behavior in Andro
   <img src="screenshots/main.png" width="240">
   <img src="screenshots/click.png" width="240">
 </p>
+```
+
+🚀 Key Features
+
+-Material Design Buttons
+-OnClick Event Handling
+-Toast & Snackbar messages
+-Clean and minimal UI
+-Very lightweight & fast
+-Perfect for UI practice
