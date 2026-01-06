@@ -38,3 +38,19 @@ Designed for students and developers who want to master button behavior in Andro
 | IDE | Android Studio |
 | UI | XML + Material Components |
 | Minimum SDK | 21 (Android 5.0) |
+
+- 📱 Works on all Android versions (Android 5.0+)  
+- 🧩 Simple & easy to understand code  
+- 🛠 Ready-to-use template for beginners  
+- 🚫 No ads, no tracking  
+- 🔋 Low battery consumption  
+- 🧪 Tested on real devices  
+
+## 📌 Learning Benefits
+
+- Learn Material Design components  
+- Understand click events  
+- Improve Android UI skills  
+- Perfect for college mini projects  
+
+
