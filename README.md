@@ -59,3 +59,7 @@ Designed for students and developers who want to master button behavior in Andro
 - App size < 5MB  
 - Launch time < 1 second  
 - Smooth UI with zero lag  
+
+## ⭐ Support
+
+If this project helped you, give a ⭐ star to motivate development ❤️
